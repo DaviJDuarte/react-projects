@@ -1,0 +1,6 @@
+.skill {
+    border-radius: 5px;
+    width: fit-content;
+    padding: 2px 4px;
+    cursor: pointer;
+}
