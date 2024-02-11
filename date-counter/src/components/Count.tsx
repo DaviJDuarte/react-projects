@@ -24,6 +24,5 @@ export default function Count() {
                 <button onClick={decreaseCountHandler}>-</button>
             </div>
         </div>
-    )
-        ;
+    );
 }
